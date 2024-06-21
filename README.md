@@ -3,32 +3,33 @@ This MySQL project is a cloned mimic version of Facebook's database. It is used 
 
 # Data and Exploration
 - Dataset
+
 The database fb_clone is created using SQL.
 There are 7 tables: Users, Photos, Likes, Comments, Follows, Tags, Photo Tags.
 
 # Exploration Questions
 The following questions are explored in this case study:
 
-First 10 users on the platform
+- First 10 users on the platform
 
-Total number of registrations
+- Total number of registrations
 
-Total number of posts
+- Total number of posts
 
-Number of Sign-ins per Day
+- Number of Sign-ins per Day
 
-Inactive users
+- Inactive users
 
-Most likes on a photo
+- Most likes on a photo
 
-Number of photo posted by most active users
+- Number of photo posted by most active users
 
-Most popular tag names by usage
+- Most popular tag names by usage
 
-Most popular tag names by likes
+- Most popular tag names by likes
 
-Users who have liked every single photo on the platform
+- Users who have liked every single photo on the platform
 
-Percentage of users who have either never commented on a photo or likes every photo
+- Percentage of users who have either never commented on a photo or likes every photo
 
-Total years on the platform
+- Total years on the platform
