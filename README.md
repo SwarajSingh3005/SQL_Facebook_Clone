@@ -10,7 +10,9 @@ There are 7 tables: Users, Photos, Likes, Comments, Follows, Tags, Photo Tags.
 The following questions are explored in this case study:
 
 First 10 users on the platform
+
 Total number of registrations
+
 Total number of posts
 Number of Sign-ins per Day
 Inactive users
